@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-10-05 110829.png"
+![WhatsApp Image 2024-09-28 at 18 55 18_89662d82](https://github.com/user-attachments/assets/9346bb36-3e97-45be-8c64-508eee92a0a6)
+
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-10-05 110842.png"
+ ![WhatsApp Image 2024-09-28 at 18 56 47_584c6eee](https://github.com/user-attachments/assets/63871bfc-9cbc-443a-bb02-b6ebdd15e6f7)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-10-05 103451.png"
+ ![WhatsApp Image 2024-09-28 at 18 57 23_b89d5c69](https://github.com/user-attachments/assets/79b13f4e-3504-4f41-a02d-0ef3906fe692)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +89,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-10-05 110902.png"
+ ![Screenshot 2024-11-19 131602](https://github.com/user-attachments/assets/18d79483-b415-4a16-bf0a-febd2b700412)
+
 
 For Transient Analysis Settings and Output
- ![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-10-05 110940.png"
+ ![Screenshot 2024-11-19 131618](https://github.com/user-attachments/assets/c0aa9a85-65ff-4890-89b7-c961a919c416)
 
- ![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-10-05 110958.png"
+
+ ![Screenshot 2024-11-19 131632](https://github.com/user-attachments/assets/d6bc2670-764b-4630-b9b9-902108292ad7)
+
 
 
 
